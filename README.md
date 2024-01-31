@@ -3,5 +3,3 @@ Stáhněte si podkladový kód a vytvořte responzivní galerii (od telofonu až
 (v rámci cvičení nezáleží na přesném paddingu prvků, zvolte ho tak, aby vizuálně odpovídal řešení)
 
 ![řešení](./reseni_img.png)
-
-"# 2023-p2b-web-css-grid-exam-martinpalous" 
